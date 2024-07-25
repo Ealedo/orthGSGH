@@ -4,11 +4,11 @@ R package to Analyse Orthology-Paralogy Relationships among Glutamine Synthetase
 ## Installing
 To get the version currently in development (not tested) you must have the 'devtools' package installed and type in the console:
 
-`install_github("jcaledo/orthGS")`
+`install_github("ealedo/orthGS")`
 
 If desired, any previous version can be installed:
 
-`install_github("jcaledo/orthGS", subdir = "versions/orthGS_x_x_x")`
+`install_github("ealedo/orthGS", subdir = "versions/orthGS_x_x_x")`
 
 ## Contact
 

@@ -404,3 +404,4 @@ madRoot <- function(tree, output_mode = "phylo"){
     return(rtr)
   }
 }
+

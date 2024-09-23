@@ -23,7 +23,7 @@ library(orthGS)
 
 The concepts of orthology and paralogy, accompanied by  precise definitions (see below), were introduced by Walter Fich in a seminal paper published as early as 1970 [1]. Over the next three decades or so, the use and abuse (not infrequently misuse) of these terms gave rise to interesting discussions about the fruitfulness of such concepts [2-4], a debate in which Fitch himself took part [5]. 
 
-Currently, in the post-genome era, with hundreds of genomes sequenced, there is little doubt of the usefulness, I would even say necessity, of these concepts. Thus, as stated by Eugene V Koonin, a researcher at the Natioonal Center for Biotecnhology Information (NCBI), "a clear distinction between orthologs and paralogs is critical for the construction of a robust evolutionary classification of genes and reliable functional  annotation of newly sequenced genomes" [6].
+Currently, in the post-genome era, with hundreds of genomes sequenced, there is little doubt of the usefulness, I would even say necessity, of these concepts. Thus, as stated by Eugene V Koonin, a researcher at the National Center for Biotecnhology Information (NCBI), "a clear distinction between orthologs and paralogs is critical for the construction of a robust evolutionary classification of genes and reliable functional  annotation of newly sequenced genomes" [6].
 
 Before adding another word, let's remember the original definitions of homology, orthology and parlogy in the context of gene/protein evolution.
 
@@ -37,7 +37,7 @@ Paralogy
 : Genes of proteins separated (that have diverged) by duplication events are called paralogs.
 
 
-Much of the confusion arises from the misconception that two paralogous genes must be present in the same genome (the same species), when nothing in the definition imposes such a restriction. Such confusion may have been favored by the fact that at the time during evolution when paralogs originate by duplication, both copies will be present, of course, in the same genome (Figure 1), but it does not imply that these paralogs will always be restricted to the same genome (organism) as evolution progresses. 
+A common misconception is that paralogous genes must always exist within the same genome or species, although the definition does not impose such a restriction. This misunderstanding may stem from the fact that, when paralogs first arise through gene duplication, both copies naturally coexist within the same genome (Figure 1). However, as evolution proceeds, these paralogs are not necessarily confined to the same genome or organism.
 
 &nbsp;
 

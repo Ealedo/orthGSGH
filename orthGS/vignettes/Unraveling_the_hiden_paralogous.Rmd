@@ -143,7 +143,7 @@ We observe that GS1a isoforms from the genus Pinus are paralogs of the GS1 from 
 
 &nbsp;
 
-![Figure 5. Species and protein trees reconciliation. The focus has been placed on the order Pinales. The duplicantions (squares) and losses (crosses) has been emphisized with colored circles (turquoise for GS1a and brawn for GS1b).](./Figures/RecPinales.png){width=50%}
+![Figure 5. Species and protein trees reconciliation. The focus has been placed on the order Pinales. The duplicantions (squares) and losses (crosses) have been emphisized with colored circles (turquoise for GS1a and brown for GS1b).](./Figures/RecPinales.png){width=50%}
 
 
 ## GS1a orthology network beyond conifers

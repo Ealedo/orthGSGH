@@ -4,3 +4,5 @@ NEWS
 v0.1.6
 
 Spelling mistakes found in the vignettes from v.0.1.5 have been corrected.
+
+The user is given the choice to use the standalone version of MUSCLE or, alternatively, to utilize the R package muscle, which provides an interface for using the MUSCLE algorithm from the R programming environment. Instructions for that can be found at ?msa or in the vignette "Unraveling the hiden paralogous"

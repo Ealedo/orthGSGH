@@ -54,7 +54,7 @@ test_that("mltree() works properly", {
 
   expect_is(a, 'pml')
   expect_true(is.list(a))
-  expect_equal(length(a), 24)
+  expect_equal(length(a), 25)
   expect_is(a$tree, 'phylo')
   expect_true("Abies_pinsapo" %in% a$tree$tip.label)
 

@@ -107,8 +107,6 @@ plot(ptr, use.edge.length = FALSE, cex = 0.6)
 
 
 
-
-
 &nbsp;
 
 ![Figure 4. Protein tree of the GS family from the conifer species shown in the previous figure. The phylogenetic relationship in conflict with the species tree has been emphasized using pink rectangles.](./Figures/conif_ptr.png){width=50%}
@@ -149,7 +147,7 @@ g <- orthG(set = c("Ap", "Abi", "Pin", "Pp", "Psm", "Pa"))[[2]]
 
 
 ```{r, eval = FALSE}
-gs1a <- data$phylo[grepl("GS1a", data$phylo_id)] # selected nodes
+gs1a <- data$phylo_id[grepl("GS1a", data$phylo_id)] # selected nodes
 plot(igraph::subgraph(g, vids = gs1a))
 ```
 

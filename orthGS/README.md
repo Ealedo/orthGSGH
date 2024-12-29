@@ -13,6 +13,14 @@ To install this package, start R and enter:
 install.packages("orthGS")` 
 
 
+To get the version currently in development (not tested) you must have the 'devtools' package installed and type in the console:
+
+devtools::install_github(repo = "ecaledo/orthGSGH", subdir ="EnvNJ")
+
+If desired, any previous version can be installed:
+
+devtools::install_github(repo = "ecaledo/orthGH", subdir = "versions/orthGS_v0.1.3")
+
 ## Contact
 
 Your are welcome to:

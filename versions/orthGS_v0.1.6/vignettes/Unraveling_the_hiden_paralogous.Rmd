@@ -1,9 +1,9 @@
 ---
-title: "Unraveling the Hidden Paralogs"
+title: "Glutamine Synthetase from Conifers: Unraveling the Hidden Paralogs"
 output: rmarkdown::html_vignette
 author: Elena Aledo
 vignette: >
-  %\VignetteIndexEntry{Unraveling_the_Hiden_Paralogous}
+  %\VignetteIndexEntry{Unraveling the Hiden Paralogous}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---

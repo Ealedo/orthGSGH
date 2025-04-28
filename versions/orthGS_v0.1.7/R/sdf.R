@@ -14,5 +14,5 @@
 ##'		\item{tax_group}{Taxonomic group}
 #' }
 #' @source
-#' It has been curated manually by the authors
+#' It has been handly curated by the authors
 "sdf"
